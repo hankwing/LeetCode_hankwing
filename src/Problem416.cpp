@@ -37,7 +37,7 @@ public:
     }
 };
 
-int main( void) {
+int main416( void) {
 	Solution a;
 	static const int arr[] = {1,1};
 	vector<int> vec(arr, arr + sizeof(arr) / sizeof(arr[0]) );
